@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Geometria-Medium; 
+    src: url('../fonts/Geometria-Medium.ttf');
+    src: url('../fonts/Geometria-Medium.eot');
+    src: url('../fonts/Geometria-Medium.woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Geometria-ExtraLight; 
+    src: url('../fonts/Geometria-ExtraLight.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Geometria; 
+    src: url('../fonts/Geometria.ttf');
+    font-weight: normal;
+    font-style: normal;
+}

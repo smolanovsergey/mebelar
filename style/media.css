@@ -1,0 +1,50 @@
+@media all and (max-width: 3000px) and (min-width: 1221px) {
+
+}
+
+@media all and (max-width: 1220px) and (min-width: 900px) {
+ .slider-text{
+     font-size: 36px;
+ }
+ .slider .button-slider{
+     font-size: 20px;
+     line-height: 26px;
+ }
+ section.nav{
+     padding: 0;
+     margin: 0;
+ }
+ section.nav>ul{
+     margin: 0 auto;
+     padding: 0;
+     justify-content: space-between;
+ }
+ section.nav>ul>li{
+     margin: 5px 0px;
+ }
+ .nav>ul>li>img{
+     width: 6px;
+     height: 6px;
+     margin: 3px 10px;
+ }
+ h2{
+     font-size: 60px;
+ }
+    .materials-palitra>span.midle-number{
+        font-size: 120px;
+    }
+    .materials-palitra>span.midle{
+        font-size: 60px;
+    }
+    h3{
+        font-size: 40px;
+    }
+    .slider .button-slider {
+        font-size: 18px;
+        line-height: 52px;
+    }
+}
+
+@media all and (max-width: 899px) and (min-width: 300px) {
+
+}
